@@ -1,0 +1,10 @@
+**List of commands:**
+**/ping:** How to annoy a bot 101
+**/userinfo:** Gets info about a user
+**/serverinfo:** Gets info about the server you are currently in
+**/pfp:** Gets a users profile picture
+**/github:** Sends a link to the TrashBot GitHub page
+**/nuzzle:** Nuzzles you >w<
+**/groovycat:** Thats one hella groovy cat
+**/cursedimage:** Posts a random cursed image.
+**/pong:** Ping pong!
